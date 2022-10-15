@@ -22,7 +22,7 @@ See our:
 - [Planning](https://trello.com/b/wMj2E6Ry/vita)!
 - [IdeaPresenation](https://docs.google.com/presentation/d/1Y_AP81LCU-uy5APLws2W9dZVUkHlW-7KelpI6sdv1C4/edit#slide=id.g15b331459d1_0_76)
 - [Wireframe](https://drive.google.com/file/d/1HSqjlRMxnD7rFOUQAGESBLbLm7SvRaiq/view?usp=sharing)
-- [Vita App] (https://vita-life-story.herokuapp.com/)
+- [Vita App](https://vita-life-story.herokuapp.com/)
 
 
 ## User Stories

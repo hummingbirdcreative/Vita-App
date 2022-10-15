@@ -35,10 +35,6 @@ As a user:
 - I want to be able to tag my photos 
 
 
-## Unsolved Porblems
-
-
-
 ## Future Enhancements
 - Sort photos by categories 
 - Community for people to see other user's photo album

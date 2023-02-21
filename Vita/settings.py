@@ -27,7 +27,7 @@ SECRET_KEY = env('SECRET_KEY')
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['vita-app-production.up.railway.app']
+ALLOWED_HOSTS = []
 
 
 # Application definition
@@ -84,7 +84,7 @@ DATABASES = {
         'USER': os.environ.get('POSTGRES_USER'),
         'PASSWORD': os.environ.get('POSTGRES_PASSWORD'),
         'HOST': 'db',
-        'PORT': 0.0.0.0:$PORT
+        'PORT': 5432,
     }
 }
 
